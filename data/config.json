@@ -1,0 +1,101 @@
+[
+    { 
+      "label": "All lights",
+      "pinNumber": "",
+      "status": "auto",
+      "overridable": "false",
+      "startTime": "08:00:00",
+      "stopTime": "20:00:00",
+      "applyToAllLights": true
+    },
+    { 
+        "label": "pump",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "false",
+        "startTime": "15:00:00",
+        "stopTime": "15:00:30",
+        "applyToAllLights": false
+      },
+      { 
+        "label": "Light 1",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      },
+      { 
+        "label": "Light 2",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      },
+      { 
+        "label": "Light 3",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      },
+      { 
+        "label": "Light 4",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      },
+      { 
+        "label": "Light 5",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      },
+      { 
+        "label": "Light 6",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      },     
+      { 
+        "label": "Light 7",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      },
+      { 
+        "label": "Light 8",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      },
+      { 
+        "label": "Light 9",
+        "pinNumber": "",
+        "status": "auto",
+        "overridable": "true",
+        "startTime": "09:00:00",
+        "stopTime": "19:00:00",
+        "applyToAllLights": false
+      }
+]

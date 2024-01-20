@@ -1,0 +1,54 @@
+body {
+  background-color: #111111;
+  color: #f8f8f2;  
+  font-family: Arial;
+  display: inline-block;
+  text-align: center;
+}
+
+header, header a{
+    color: #50fa7b;
+    font-size:bolder;
+     text-decoration: none; 
+}
+header a:hover{
+    color:#ffffff;
+}
+h3{
+    display:inline
+}
+
+main{
+    line-height:2em;
+
+}
+
+.nextPrev{
+ border: 1px solid black ;   
+}
+
+.nextPrev.prev{
+ float:left;   
+}
+.nextPrev.next{
+ float:right;   
+}
+
+.checkboxBTN{
+    margin: 2.5%;
+    padding: 2.5%;
+    display: inline-block; 
+    border:1px solid silver;
+    background-color:#44475a;
+width:35%
+}
+.checkboxBTN:first{
+    width:78%;
+}
+.timesum{
+    float:right;
+}
+
+.applyToAllLightsdiv{
+    float:left;
+}

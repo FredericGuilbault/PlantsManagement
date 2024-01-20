@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name = "viewport" content = "width = device-width, initial-scale = 1.0, maximum-scale = 1.0, user-scalable=0">
+        <title>Plants controller</title>
+        <link rel="stylesheet" href="/style.css">
+        <script type="text/javascript" src="/jquery.js"></script>
+    </head>
+    <body>
+    <header>
+    <h3 id="PH-LABEL"> 
+        <a href="#" class="nextPrev prev">  <  </a> 
+            <span id="labelPh">...</span>
+        <a href="#" class="nextPrev next">  >  </a> 
+     </h3>
+    </header> 
+    <main>
+    <hr>
+<div class="radioBtn">
+<span class="checkboxBTN">
+    <input class="setAuto" type="radio" name="status" value="auto">
+    <label class="setAuto" for="auto">AUTO</label><br>
+</span><br><span class="checkboxBTN">
+    <input class="setOn" type="radio" name="status" value="on">
+    <label class="setOn" for="on">ON</label>
+</span><span class="checkboxBTN">
+    <input class="setOff" type="radio" name="status" value="off">
+    <label class="setOff" for="off">OFF</label>
+</span>
+</div>
+<br><br>
+    <div class="applyToAllLightsdiv">
+     <input type="checkbox" id="applyToAllLightsph" name="applyToAllLights" >
+     <label for="applyToAllLights">Apply to all lights</label>
+    </div>
+     <br><br>
+    Start: <input class="starttimeph" name="start"></input><br>
+    Stop:  <input class="stoptimeph" name="stop"></input><br>
+    <div class="timesum"><em> time: <span class="timevalue">???<span></em></div>
+    
+</main>
+    </body>
+            <script type="text/javascript" src="/script.js"></script>
+
+</html>
